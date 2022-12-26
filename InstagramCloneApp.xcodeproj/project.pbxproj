@@ -252,7 +252,6 @@
 				9A949436293009F900AC111D /* IGFeedPostGeneralTableViewCell.swift */,
 				9A94943829300A0900AC111D /* IGFeedPostActionsTableViewCell.swift */,
 				9A9494332930099600AC111D /* Home Feed */,
-				9A3D8844293EC2E3001C2E16 /* UserFollowTableViewCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -262,6 +261,7 @@
 			children = (
 				9A9494552931939E00AC111D /* FormTableViewCell.swift */,
 				9A839E382936C24500B55BB8 /* PhotoCollectionViewCell.swift */,
+				9A3D8844293EC2E3001C2E16 /* UserFollowTableViewCell.swift */,
 			);
 			path = "Home Feed";
 			sourceTree = "<group>";
